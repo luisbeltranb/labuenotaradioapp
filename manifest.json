@@ -1,0 +1,16 @@
+{
+  "name": "La Buenota Radio",
+  "short_name": "La Buenota",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "La mejor radio tropical para bailar sin parar.",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/pr241NSX/LA-BUENOTA-APP-PWA.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
